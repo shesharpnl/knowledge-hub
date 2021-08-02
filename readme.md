@@ -4,7 +4,7 @@
 
 This is a collection of resources gathered by SheSharp community.
 
-It's include a table of contents for you to navigate to the sections that matter the most to you.
+It includes a table of contents for you to navigate to the sections that matter the most to you.
 
 The resources collected here cover different areas, such as Frontend, Backend and Data analyses.
 We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you but totally worth it.
