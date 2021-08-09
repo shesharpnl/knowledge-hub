@@ -6,8 +6,8 @@ This is a collection of resources gathered by SheSharp community.
 
 It includes a table of contents for you to navigate to the sections that matter the most to you.
 
-The resources collected here cover different areas, such as Frontend, Backend and Data analyses.
-We have made an effort to include as many free resources as possible. However we also understand that there are quality resources out there that might cost you but totally worth it.
+The resources collected here cover different areas, such as Software development, Data analysis, Product Management and Quality Assurance.
+We have made an effort to include as many free resources as possible.
 
 ## Suggesting a resource
 
@@ -18,5 +18,5 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [Contibuting](#suggesting-a-resource)
+  - [Suggest a Resource](#suggesting-a-resource)
 - [Table of Contents](#table-of-contents)
