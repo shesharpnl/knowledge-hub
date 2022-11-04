@@ -17,10 +17,14 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 
 # Table of Contents
 
-- [Introduction](#introduction)
-  - [Suggest a Resource](#suggesting-a-resource)
+- [SheSharp knowledge hub](#shesharp-knowledge-hub)
+  - [Introduction](#introduction)
+  - [Suggesting a resource](#suggesting-a-resource)
 - [Table of Contents](#table-of-contents)
-  - [Social Media](#social-media)
+- [Social Media](#social-media)
+  - [Instagram profiles](#instagram-profiles)
+  - [Linkedin profiles](#linkedin-profiles)
+  - [Organizations that help women and non-binary people break into tech](#organizations-that-help-women-and-non-binary-people-break-into-tech)
 
 # Social Media
 
@@ -30,3 +34,15 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 - [@marwane.dev](https://www.instagram.com/marwane.dev/)
 - [@programmer.nest](https://www.instagram.com/programmer.nest/)
 - [@webapp_creator](https://www.instagram.com/webapp_creator/)
+
+## Linkedin profiles 
+-[Christine Belzie](https://www.linkedin.com/in/christinebelzie)
+
+## Organizations that help women and non-binary people break into tech
+
+- [SheCodes](https://www.shecodes.io)
+- [Women Who Code](https://womenwhocode.com)
+- [Lesbians Who Tech](https://lesbianswhotech.org)
+- [Ada Developers Academy](https://adadevelopersacademy.org)
+  
+  
