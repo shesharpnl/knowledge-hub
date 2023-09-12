@@ -21,7 +21,7 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
   - [Introduction](#introduction)
   - [Suggesting a resource](#suggesting-a-resource)
 - [Table of Contents](#table-of-contents)
-- [Randstad Housing Resources] (#randstad-housing-resources)
+- [Randstad Housing Resources](#randstad-housing-resources)
 - [Social Media](#social-media)
   - [Instagram profiles](#instagram-profiles)
   - [Linkedin profiles](#linkedin-profiles)
