@@ -33,6 +33,8 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
   ### General resources
   -[funda.nl](https://www.funda.nl)
   Funda is good for individuals with a higher budget, or for 2+ people seeking to share a flat.
+
+  
   -[pararius.nl](https://www.pararius.nl)
   Pararius tends to have more lower cost options than Funda.
 
