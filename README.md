@@ -21,10 +21,20 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
   - [Introduction](#introduction)
   - [Suggesting a resource](#suggesting-a-resource)
 - [Table of Contents](#table-of-contents)
+- [Randstad Housing Resources] (#randstad-housing-resources)
 - [Social Media](#social-media)
   - [Instagram profiles](#instagram-profiles)
   - [Linkedin profiles](#linkedin-profiles)
   - [Organizations that help women and non-binary people break into tech](#organizations-that-help-women-and-non-binary-people-break-into-tech)
+
+# Randstad Rental Housing Resources
+  Housing in the Netherlands can be tough, besides using our Slack channel to network with other home seekers/ potential flatmates, we've curated some resources to aid in the search for a rental home.
+
+  ### General resources
+  -[funda.nl](https://www.funda.nl)
+  Funda is good for individuals with a higher budget, or for 2+ people seeking to share a flat.
+  -[pararius.nl](https://www.pararius.nl)
+  Pararius tends to have more lower cost options than Funda.
 
 # Social Media
 
