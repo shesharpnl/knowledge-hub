@@ -27,7 +27,7 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
   - [Linkedin profiles](#linkedin-profiles)
   - [Organizations that help women and non-binary people break into tech](#organizations-that-help-women-and-non-binary-people-break-into-tech)
 
-# Randstad Rental Housing Resources
+# Randstad Housing Resources
   Housing in the Netherlands can be tough, besides using our Slack channel to network with other home seekers/ potential flatmates, we've curated some resources to aid in the search for a rental home.
 
   ### General resources
