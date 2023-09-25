@@ -20,13 +20,11 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 - [SheSharp Knowledge Hub](#shesharp-knowledge-hub)
   - [Introduction](#introduction)
   - [Suggesting a resource](#suggesting-a-resource)
-- [Table of Contents](#table-of-contents)
-- [Social Media](#social-media)
-  - [Instagram profiles](#instagram-profiles)
-  - [Linkedin profiles](#linkedin-profiles)
-  - [Organizations that help women and non-binary people break into tech](#organizations-that-help-women-and-non-binary-people-break-into-tech)
-- [Resources](#resources)
-  - [Randstad Housing](resources/randstad-housing.md)
+  - [Table of Contents](#table-of-contents)
+  - [Social Media](#social-media)
+    - [Instagram profiles](#instagram-profiles)
+    - [Linkedin profiles](#linkedin-profiles)
+  - [Resources](#resources)
 
 ## Social Media
 
@@ -44,10 +42,4 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 ## Resources
 
 - [Randstad Housing](resources/randstad-housing.md)
-
-## Organizations that help women and non-binary people break into tech
-
-- [SheCodes](https://www.shecodes.io)
-- [Women Who Code](https://womenwhocode.com)
-- [Lesbians Who Tech](https://lesbianswhotech.org)
-- [Ada Developers Academy](https://adadevelopersacademy.org)
+- [Supportive Tech Organizations](resources/supportive-tech-orgs.md)
