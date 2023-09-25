@@ -13,7 +13,7 @@ We have made an effort to include as many free resources as possible.
 
 We invite as many contributions as possible. If you know of a resource that would be a great addition to this list, feel free to make a contribution through a PR.
 
-Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.md)
+Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Be sure to read [How To submit your suggestion](./how-to/submit-your-suggestion.
 
 ### Linkedin Profiles
 
--[Christine Belzie](https://www.linkedin.com/in/christinebelzie)
+- [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
 
 ## Resources
 
