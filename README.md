@@ -9,9 +9,9 @@ It includes a table of contents for you to navigate to the sections that matter 
 The resources collected here cover different areas, such as software development, data analysis, product management and quality assurance.
 We have made an effort to include as many free resources as possible.
 
-## Suggesting a resource
+## Contributing
 
-We invite as many contributions as possible. If you know of a resource that would be a great addition to this list, feel free to make a contribution through a PR.
+We love contributions and we invite you to contribute! If you know of a resource that would be a great addition to this list, feel free to make a contribution through a pull request.
 
 Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
@@ -19,7 +19,7 @@ Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information a
 
 - [SheSharp Knowledge Hub](#shesharp-knowledge-hub)
   - [Introduction](#introduction)
-  - [Suggesting a resource](#suggesting-a-resource)
+  - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
   - [Social Media](#social-media)
     - [Instagram profiles](#instagram-profiles)
