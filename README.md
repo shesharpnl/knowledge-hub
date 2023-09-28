@@ -43,15 +43,15 @@ Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information a
 
 ## Support
 
-If you encounter any issues, have questions, or need assistance, please refer to our support [documentation](SUPPORT.md).
+If you encounter any issues, have questions, or need assistance, please refer to our support [documentation](https://github.com/shesharpnl/.github/blob/main/SUPPORT.md).
 
 ## Code of Conduct
 
-To ensure a welcoming and inclusive community, we have established a Code of Conduct that applies to everyone participating in our project. Please read and adhere to these [guidelines](CODE_OF_CONDUCT.md).
+To ensure a welcoming and inclusive community, we have established a Code of Conduct that applies to everyone participating in our project. Please read and adhere to these [guidelines](https://github.com/shesharpnl/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Security
 
-If you discover any security vulnerabilities, please report them following the instructions in our security [documentation](SECURITY.md). Your responsible disclosure is appreciated.
+If you discover any security vulnerabilities, please report them following the instructions in our security [documentation](https://github.com/shesharpnl/.github/blob/main/SECURITY.md). Your responsible disclosure is appreciated.
 
 ## License
 
