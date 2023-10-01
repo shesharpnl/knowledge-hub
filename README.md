@@ -55,4 +55,4 @@ If you discover any security vulnerabilities, please report them following the i
 
 ## License
 
-Our project is licensed under the [MIT License](LICENSE).
+[MIT © 2023 SheSharp](LICENSE).
