@@ -5,7 +5,7 @@ This is a collection of resources gathered by SheSharp community.
 It includes a table of contents for you to navigate to the sections that matter the most to you.
 
 
-The resources collected here cover different areas, such as software development, data analysis, product management, and quality assurance. We have made an effort to include as many free resources as possible.
+The resources collected here cover different areas, from tech-related, such as software development, data analysis, product management, and quality assurance, to the general ones that can help others, such as housing in The Netherlands, and so on.
 
 - [Contributing](#contributing)
 - [Social Media](#social-media)
