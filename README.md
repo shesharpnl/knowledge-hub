@@ -8,9 +8,7 @@ It includes a table of contents for you to navigate to the sections that matter 
 The resources collected here cover different areas, from tech-related, such as software development, data analysis, product management, and quality assurance, to the general ones that can help others, such as housing in The Netherlands, and so on.
 
 - [Contributing](#contributing)
-- [Social Media](#social-media)
-  - [Instagram Profiles](#instagram-profiles)
-  - [Linkedin Profiles](#linkedin-profiles)
+- [Socials](#socials)
 - [Resources](#resources)
 - [Support](#support)
 - [Code of Conduct](#code-of-conduct)
@@ -23,18 +21,9 @@ We love contributions and we invite you to contribute! If you know of a resource
 
 Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
-## Social Media
+## Socials
 
-### Instagram Profiles
-
-- [@developers_community](https://www.instagram.com/developers_community_._/)
-- [@marwane.dev](https://www.instagram.com/marwane.dev/)
-- [@programmer.nest](https://www.instagram.com/programmer.nest/)
-- [@webapp_creator](https://www.instagram.com/webapp_creator/)
-
-### Linkedin Profiles
-
-- [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
+- [Socials](socials/socials.md)
 
 ## Resources
 
