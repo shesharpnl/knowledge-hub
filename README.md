@@ -7,13 +7,14 @@ It includes a table of contents for you to navigate to the sections that matter 
 
 The resources collected here cover different areas, from tech-related, such as software development, data analysis, product management, and quality assurance, to the general ones that can help others, such as housing in The Netherlands, and so on.
 
-- [Contributing](#contributing)
-- [Socials](#socials)
-- [Resources](#resources)
-- [Support](#support)
-- [Code of Conduct](#code-of-conduct)
-- [Security](#security)
-- [License](#license)
+- [SheSharp Knowledge Hub](#shesharp-knowledge-hub)
+  - [Contributing](#contributing)
+  - [Socials](#socials)
+  - [Resources](#resources)
+  - [Support](#support)
+  - [Code of Conduct](#code-of-conduct)
+  - [Security](#security)
+  - [License](#license)
 
 ## Contributing
 
@@ -29,6 +30,7 @@ Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information a
 
 - [Randstad Housing](resources/randstad-housing.md)
 - [Supportive Tech Organizations](resources/supportive-tech-orgs.md)
+- [Open Source](resources/open-source.md)
 
 ## Support
 
