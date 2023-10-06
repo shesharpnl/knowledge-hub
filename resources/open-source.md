@@ -1,22 +1,21 @@
-# Introduction
+# Picture this
 
-TO DO LATER
-<!-- Plan: Create an engaging introduction about devs feelings -->
+You've been learning how to code for a couple of months now and are tired of going through tutorial after tutorial. Just when you were about to give up on coding altogether, an angel appeared in a form of a tweet, "Try open source".
 
 ## What is Open Source?
 
-TO DO LATER
-<!-- Plan: Briefly define Open Source, mention Christine Peterson, and link her blog post about her journey -->
+Open source is when a product's code is made available to the public to the public, allowing people to make modifications to enhance them. This concept was found by Christine Peterson, an Executive Director at Foresight in 1998 to make this software more understandable to businesses and people who are not in tech. Want to learn more? Check out her blog post, ["How I coined the term 'open source"](https://opensource.com/article/18/2/coining-term-open-source-software).
 
 ## How can I benefit from Open Source?
 
 TO DO LATER
-<!-- Plan: Briefly describe the benefits of Open Source. Add a link to Bekah's article on how open source has help her career. -->
+<!-- add examples later -->
 
 ## Do I need to know how to code to contribute?  
 
-TO DO LATER
-<!-- Plan: Briefly describe the many ways you can contribute to open source. Add links to contributions that exemplify each method. -->
+While coding is helpful in contributing to open source, it is not the only way you can contribute. Here's how:
+
+<!-- add examples later -->
 
 ## How can I find a project?  
 
