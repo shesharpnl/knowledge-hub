@@ -25,7 +25,7 @@ While coding is helpful in contributing to open source, it is not the only way y
 
 ### Documentation
 
-Do you enjoy writing? Does grammar errors tick you off? Do you enjoy simplifying complex topics to people? Then,  documentation is for you. This involves creating, improving, or maintaining an open source project's written resources. These are crucial to open-source projects because they make them more accessible and user-friendly, which can help attract new contributors and encourage repeat contributions.
+Do you enjoy writing? Does grammar errors tick you off? Do you enjoy simplifying complex topics to people? Then, documentation is for you. This involves creating, improving, or maintaining an open source project's written resources. These are crucial to open-source projects because they make them more accessible and user-friendly, which can help attract new contributors and encourage repeat contributions.
 
 ### Examples of Documentation Contributions
 
