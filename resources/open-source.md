@@ -17,7 +17,7 @@ In addition to growing your tech skills, participating in the open source commun
 
 ## Do I need to know how to code to contribute?  
 
-While coding is helpful in contributing to open source, it is not the only way you can contribute. Click on the bullet points below to see how:
+While coding is helpful, it is not the only way you can contribute to open source projects. Click on the bullet points below to see how:
 
 - [Documentation](/resources/open-source.md#documentation)
 - [Design](/resources/open-source.md#design)
