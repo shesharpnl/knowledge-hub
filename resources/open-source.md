@@ -21,7 +21,7 @@ While coding is helpful in contributing to open source, it is not the only way y
 
 - [Documentation](/resources/open-source.md#documentation)
 - [Design](/resources/open-source.md#design)
-- Marketing
+- [Marketing](/resources/open-source.md#marketing)
 
 ### Documentation
 
@@ -64,5 +64,5 @@ Need some marketing ideas for your contributions? Check out these examples:
 Now we know it can get intimidating to find a project, but don't fret, here are some strategies that can help you find projects to start your open source journey:
 
 1. Use the “good first issue” label: If you’re using GitHub to search for open-source projects, they have a label called “good first issues”.  It’s used by open source project owners to let people know that an issue is good for people who are new to open source or their project. If you need more ideas on how to find good issues, check out the FreeCodeCamp article, ["How to Find Good First Issues On GitHub"](https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/).
-1. Ask your colleagues: Consider asking them what open source projects they are involved in and what the community is like(if they have a communication channel that is). Friends + Open Source = funtimes
+1. Ask your colleagues: Consider asking them what open source projects they are involved in and what the community is like(if they have a communication channel that is). Friends + Open Source = fun times
 1. Read open source content: Whether it's a social media post or an article, these forms of content are a great way to learn about a project. They often provide details about an issue a person raised, how they solved it, and what they learned from the experience.  
