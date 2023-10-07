@@ -37,7 +37,7 @@ Need some ideas on how to do documentation contributions? Check out these exampl
   
 ### Design
 
-Do you enjoy drawing or fool around with PhotoShop from time to time?  Put those design skills to work! 😄 This involves creating logos and other visual assets for the project. They bring visual appeal and user-interactivity to open source projects.
+Do you enjoy drawing or fool around with Photoshop from time to time?  Put those design skills to work! 😄 This involves creating logos and other visual assets for the project. They bring visual appeal and user-interactivity to open source projects.
 
 ### Examples of Design Contributions
 
@@ -49,7 +49,7 @@ Need some muses to create your contribution? Check out these examples:
   
 ### Marketing
 
-If you're a marketing genius, consider putting these skills in open source.  This involves promoting open source projects whether it's online or in-person.  These contributions help people learn more about the product, why they should use it, and how they can make it better.
+If you love posting on social media, consider putting these skills in open source.  This involves promoting open source projects whether it's online or in-person.  These contributions help people learn more about the product, why they should use it, and how they can make it better.
 
 ### Examples of Marketing Contributions
 
