@@ -1,10 +1,10 @@
 
-# Social Media Links 
+# Social Media Links Page
 
 
 #### Description 
 
-// Add social media links here for networking opportunites
+// Place for others to share their social medial links 
 
 ### Instagram
 - [@developers_community](https://www.instagram.com/developers_community_._/)
