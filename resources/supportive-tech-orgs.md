@@ -6,3 +6,4 @@ You'll find the tech organizations that help women and non-binary people break i
 - [Women Who Code](https://womenwhocode.com)
 - [Lesbians Who Tech](https://lesbianswhotech.org)
 - [Ada Developers Academy](https://adadevelopersacademy.org)
+- [She Code Africa](https://linktr.ee/shecodeafrica)
