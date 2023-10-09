@@ -4,7 +4,15 @@
 
 #### Description 
 
-// Place for others to share their social medial links 
+A place for SheSharp community members to share their social media links
+
+### Slack
+
+- https://shesharp.co/slack
+
+### SheSharp Site 
+
+- [@SheSharp] (https://www.shesharp.co/new-in-tech-scholarship)
 
 ### Instagram
 - [@developers_community](https://www.instagram.com/developers_community_._/)
@@ -13,6 +21,7 @@
 - [@webapp_creator](https://www.instagram.com/webapp_creator/)
 
 ### Linkedin Profiles
+
 
 - [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
 
