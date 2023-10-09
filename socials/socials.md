@@ -1,10 +1,9 @@
 
 # Social Media Links Page
 
+## Description 
 
-#### Description 
-
-A place for SheSharp community members to share their social media links
+A place for SheSharp community members to share their social media links.
 
 ### Slack
 
