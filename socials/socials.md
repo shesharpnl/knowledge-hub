@@ -12,7 +12,7 @@ A place for SheSharp community members to share their social media links
 
 ### SheSharp Site 
 
-- [@SheSharp] (https://www.shesharp.co/new-in-tech-scholarship)
+- [SheSharp] (https://www.shesharp.co/new-in-tech-scholarship)
 
 ### Instagram
 - [@developers_community](https://www.instagram.com/developers_community_._/)
