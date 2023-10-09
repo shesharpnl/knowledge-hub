@@ -5,13 +5,11 @@
 
 A place for SheSharp community members to share their social media links.
 
-### Slack
+## Join SheSharp Community
+  
+Come and join out community on [Slack] (https://shesharp.co/slack)
 
-- https://shesharp.co/slack
-
-### SheSharp Site 
-
-- [SheSharp] (https://www.shesharp.co/new-in-tech-scholarship)
+For more information about our community, visit [our website] (https://www.shesharp.co/new-in-tech-scholarship)
 
 ### Instagram
 - [@developers_community](https://www.instagram.com/developers_community_._/)
