@@ -18,7 +18,7 @@ The resources collected here cover different areas, from tech-related, such as s
 
 ## Contributing
 
-We love contributions and we invite you to contribute! If you know of a resource that would be a great addition to this list, feel free to make a contribution through a pull request.
+We love contributions and we invite you to contribute! If you know of a resource that would be a great addition to this list, feel free to make a contribution through a pull request. We prioritize PRs from existing community members and underrepresented genders in tech.
 
 Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
