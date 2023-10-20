@@ -4,7 +4,7 @@ Welcome to SheSharp Knowledge Hub! Thank you for expressing interest in contribu
 
 This repository contains a list of resources for growing and improving as a developer. Our goal is to help as many developers out there.
 
-Besides adding resources to our lists, we welcome bug fixes, typo fixes, and feedback! However, we prioritize PRs from existing community members and underrepresented genders in tech to support our mission.
+Besides adding resources to our lists, we welcome bug fixes, typo fixes, and feedback! **However, we prioritize PRs from existing community members and underrepresented genders in tech to support our mission.**
 
 We take our Code of Conduct very seriously, and all contributors must abide by it. So please take time to read it before contributing.
 
