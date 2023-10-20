@@ -4,7 +4,7 @@ Welcome to SheSharp Knowledge Hub! Thank you for expressing interest in contribu
 
 This repository contains a list of resources for growing and improving as a developer. Our goal is to help as many developers out there.
 
-Besides adding resources to our lists, we welcome bug fixes, typo fixes, and feedback!
+Besides adding resources to our lists, we welcome bug fixes, typo fixes, and feedback! However, we prioritize PRs from existing community members and underrepresented genders in tech to support our mission.
 
 We take our Code of Conduct very seriously, and all contributors must abide by it. So please take time to read it before contributing.
 
@@ -15,6 +15,12 @@ If you're new to open source, check out the resources below to familiarize yours
 - [Our members' articles about open source on our website](https://www.shesharp.co/hacktoberfest)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Git Guide](https://github.com/git-guides)
+
+## Working With Issues
+
+If you find an issue you would like to work on, comment on it, and a maintainer will respond and assign it to you. Only work on changes and create a PR if it's assigned to you.
+
+We only accept PRs from contributors who get assigned to the issues.
 
 ## Getting Started
 
