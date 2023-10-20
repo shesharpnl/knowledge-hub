@@ -6,7 +6,7 @@ It includes a table of contents for you to navigate to the sections that matter 
 
 The resources collected here cover different areas, from tech-related, such as software development, data analysis, product management, and quality assurance, to the general ones that can help others, such as housing in The Netherlands, and so on.
 
-- [SheSharp Knowledge Hub](#shesharp-knowledge-hub)
+## Table of Contents
   - [Contributing](#contributing)
   - [Socials](#socials)
   - [Resources](#resources)
