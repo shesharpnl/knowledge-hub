@@ -16,9 +16,10 @@ For more information about our community, visit [our website] (https://www.shesh
 - [@marwane.dev](https://www.instagram.com/marwane.dev/)
 - [@programmer.nest](https://www.instagram.com/programmer.nest/)
 - [@webapp_creator](https://www.instagram.com/webapp_creator/)
+- [@coderinks](https://instagram.com/coderinks?igshid=OGQ5ZDc2ODk2ZA==)
 
 ### Linkedin Profiles
 
 
 - [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
-
+- [Tooba Jamal](https://www.linkedin.com/in/tooba-jamal)
