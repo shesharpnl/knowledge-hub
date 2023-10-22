@@ -18,9 +18,11 @@ For more information about our community, visit [our website] (https://www.shesh
 - [@webapp_creator](https://www.instagram.com/webapp_creator/)
 - [@coderinks](https://instagram.com/coderinks?igshid=OGQ5ZDc2ODk2ZA==)
 - [@zeshanmukhtar01](https://www.instagram.com/zeshanmukhtar01/)
+- [@stfuyasir](https://www.instagram.com/stfuyasir/)
 
 ### Linkedin Profiles
 
 - [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
 - [Tooba Jamal](https://www.linkedin.com/in/tooba-jamal)
 - [Zeeshan Mukhtar](https://www.linkedin.com/in/zeeshanmukhtar1/)
+- [Yasir Nawaz](https://www.linkedin.com/in/yasirnawaz24/)
