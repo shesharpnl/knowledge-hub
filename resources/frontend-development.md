@@ -1,4 +1,4 @@
-# Fontend Development
+# Frontend Development
 ## CSS
 
 Here is a list of useful websites for learning and mastering CSS:
