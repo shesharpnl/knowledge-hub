@@ -2,7 +2,13 @@
 
 A place for SheSharp community members to share their social media links.
 
-### Instagram
+## LinkedIn
+
+- [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
+- [Tooba Jamal](https://www.linkedin.com/in/tooba-jamal)
+- [Zeeshan Mukhtar](https://www.linkedin.com/in/zeeshanmukhtar1/)
+
+## Instagram
 
 - [@developers_community](https://www.instagram.com/developers_community_._/)
 - [@marwane.dev](https://www.instagram.com/marwane.dev/)
@@ -10,12 +16,6 @@ A place for SheSharp community members to share their social media links.
 - [@webapp_creator](https://www.instagram.com/webapp_creator/)
 - [@coderinks](https://instagram.com/coderinks?igshid=OGQ5ZDc2ODk2ZA==)
 - [@zeshanmukhtar01](https://www.instagram.com/zeshanmukhtar01/)
-
-### Linkedin Profiles
-
-- [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
-- [Tooba Jamal](https://www.linkedin.com/in/tooba-jamal)
-- [Zeeshan Mukhtar](https://www.linkedin.com/in/zeeshanmukhtar1/)
 
 ## Join SheSharp Community
 
