@@ -1,6 +1,6 @@
 # Social Media
 
-A place for SheSharp community members to share their social media links.
+This is a place for SheSharp community members to share their social media links.
 
 ## GitHub
 
