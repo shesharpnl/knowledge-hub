@@ -8,7 +8,7 @@ Here is a list of useful websites for learning and mastering CSS:
 
 ## JavaScript
 
-<h3>React</h3>
+### React
 
 - ** [React Course - Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8&t=853s)**:
 
