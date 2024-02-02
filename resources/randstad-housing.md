@@ -1,4 +1,6 @@
 # Randstad Housing Resources
+We are not affiliated with any of the linked parties mentioned in this document.
+
 
 Housing in the Netherlands can be challenging. Besides using our Slack channel to network with other home seekers/ potential flatmates, we've curated some resources to aid in the search for a rental home. Things to keep in mind when looking for a rental home:
 
@@ -26,6 +28,10 @@ Housing in the Netherlands can be challenging. Besides using our Slack channel t
 - [Kamernet.nl](https://kamernet.nl/en)
 
   Kamernet is mostly rooms, and it is free. Be cautious with the listings on this website, as there is little to no verification process. Many student houses list upcoming vacancies here, and subletting opportunities are also listed here.
+
+- [Reddit on Housing](https://www.shesharp.co/new-in-tech-scholarship)
+
+  If you like reddit, here's one dedicated to housing in the Netherlands. Search here for frequently asked questions about housing.
 
 ## Housing Search Resources — Paid
 
