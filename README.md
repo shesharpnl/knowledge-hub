@@ -10,6 +10,7 @@ The resources collected here cover different areas, from tech-related, such as s
   - [Contributing](#contributing)
   - [Socials](#socials)
   - [Resources](#resources)
+  - [Careers](#careers)
   - [Support](#support)
   - [Code of Conduct](#code-of-conduct)
   - [Security](#security)
@@ -29,6 +30,10 @@ Before starting, please read our [Contributing Guide](CONTRIBUTING.md) for detai
 - [Supportive Tech Organizations](resources/supportive-tech-orgs.md)
 - [Open Source](resources/open-source.md)
 
+## Careers
+
+- [Careers Overview](/careers/careers.md)
+  
 ## Support
 
 If you encounter any issues, have questions, or need assistance, please refer to our support [documentation](https://github.com/shesharpnl/.github/blob/main/SUPPORT.md).
