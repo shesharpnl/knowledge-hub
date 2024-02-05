@@ -4,7 +4,7 @@ Frontend Development is a pivotal aspect of web development that focuses on craf
 
 ## Graphical Design
 
-In the context of frontend development, graphical design involves conceptualizing and creating the visually appealing layouts, typography,color schemes, and graphical elements that collectively form the aesthetic foundation of the application.Designers employ tools like Adobe Photoshop, Sketch, or Figma to translate ideas into tangible visual assets.
+In the context of frontend development, graphical design involves conceptualizing and creating the visually appealing layouts, typography, color schemes, and graphical elements that collectively form the aesthetic foundation of the application. Designers employ tools like Adobe Photoshop, Sketch, or Figma to translate ideas into tangible visual assets.
 
 ## User Interface (UI) Development
 
