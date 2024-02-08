@@ -10,13 +10,25 @@ In the context of frontend development, graphical design involves conceptualizin
 
 UI development focuses on implementing the graphical design into functional, interactive interfaces that users can seamlessly navigate and engage with. It includes writing codes using technologies like HTML, CSS, and JavaScript to structure content, style elements, and add dynamic behavior.
 
-### Key Aspects of Frontend Development
+## Resources to Learn Frontend Development
 
-#### HTML (HyperText Markup Language)
+A list of useful websites to gain mastery of frontend development:
+
+- **[Frontend Masters](https://frontendmasters.com/)**
+
+  Frontend Masters is a comprehensive learning platform for frontend developers, offering in-depth courses on a wide range of topics, including HTML, CSS, JavaScript, and modern frontend frameworks. With expert-led instruction and hands-on projects, developers can enhance their skills and stay up-to-date with the latest trends in frontend development.
+
+- **[The Odin Project](https://www.theodinproject.com/)**
+
+  The Odin Project is an open source that provides free curriculum for learning web development, covering HTML, CSS, JavaScript, and other essential technologies. Through project-based learning and guided tutorials, learners can build real-world projects and gain practical experience in frontend development, preparing them for careers in the tech industry.
+
+Below is the list of resources to learn frontend development. For specific resources, see the following subsections.
+
+### HTML (HyperText Markup Language)
 
 This is a markup language used to create the structure and layout of web pages.
 
-#### CSS (Cascading Style Sheets)
+### CSS (Cascading Style Sheets)
 
 It controls the presentation, formatting, and appearance of web pages, such as colors, fonts, and layout.
 
@@ -38,23 +50,9 @@ Below is a list of useful websites for learning and mastering CSS:
 
   CSS Grid Garden offers an engaging way to learn CSS grid through a series of garden-themed challenges. By planting and arranging trees using CSS grid properties, participants master the intricacies of grid-based layouts and gain confidence in designing complex web interfaces.
 
-#### JavaScript
+### JavaScript
 
-Enables dynamic interactions and functionality on web pages, such as form validation, animations, and data manipulation. JavaScript frameworks and libraries like React, Vue.js, and Angular facilitate the development of complex user interfaces and enhance interactivity.
-
-A list of useful websites to gain mastery of frontend development:
-
-- **[Frontend Masters](https://frontendmasters.com/)**
-
-  Frontend Masters is a comprehensive learning platform for frontend developers, offering in-depth courses on a wide range of topics, including HTML, CSS, JavaScript, and modern frontend frameworks. With expert-led instruction and hands-on projects, developers can enhance their skills and stay up-to-date with the latest trends in frontend development.
-
-- **[The Odin Project](https://www.theodinproject.com/)**
-
-  The Odin Project provides a free and open-source curriculum for learning web development, covering HTML, CSS, JavaScript, and other essential technologies. Through project-based learning and guided tutorials, learners can build real-world projects and gain practical experience in frontend development, preparing them for careers in the tech industry.
-
-## JavaScript
-
-JavaScript is a scripting or programming language that allows you to create dynamic web pages.
+JavaScript is a scripting or programming language that allows you to create dynamic web pages. It enables dynamic interactions and functionality on web pages, such as form validation, animations, and data manipulation. JavaScript frameworks and libraries like React, Vue.js, and Angular facilitate the development of complex user interfaces and enhance interactivity.
 
 A list of useful resources for learning JavaScript:
 
@@ -64,7 +62,7 @@ A list of useful resources for learning JavaScript:
 
 ### JavaScript Library
 
-A javaScript library is a toolbox of pre-written code designed for a specific task. In other words,it's a collection of reusable functions and features framed or crafted to make certain programming tasks easier. For a beginner, think of it as a set of tools that you can use to build a web application without having to create everything from scratch. An example of a JavaScript library is React.
+A JavaScript library is a toolbox of pre-written code designed for a specific task. In other words, it's a collection of reusable functions and features framed or crafted to make certain programming tasks easier. For beginners, think of it as a set of tools that you can use to build a web application without having to create everything from scratch. An example of a JavaScript library is React.
 
 #### React
 
